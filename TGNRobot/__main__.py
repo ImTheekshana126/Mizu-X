@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-🌺Hey there! My name is *Saber*.
+🌺Hey there! My name is *Mizu X*.
 
 I can help manage your groups with useful features, feel free to add me to your groups!
 """
