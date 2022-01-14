@@ -91,11 +91,11 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="📜Source Code", url=f"https://github.com/imtheekshana126/saber-bot"),
+        InlineKeyboardButton(text="📜Source Code", url=f"https://github.com/imtheekshana126/Mizu-X"),
         InlineKeyboardButton(text="❔Help", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="➕Add Saber To Your Groups➕", url=f"t.me/TheSaberBot?startgroup=true"),
+        InlineKeyboardButton(text="➕Add Mizu X To Your Groups➕", url=f"t.me/TheMizuBot?startgroup=true"),
     ],
 ]
 
